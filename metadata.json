@@ -1,0 +1,7 @@
+{
+  "name": "FlowAI",
+  "description": "Build, review, and deploy Google Apps Script automations using AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
